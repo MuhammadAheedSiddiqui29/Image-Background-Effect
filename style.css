@@ -31,7 +31,7 @@
     overflow: hidden;
 }
 
-/* span{
+span{
     width: 1px;
     height: 100%;
     cursor: ew-resize;
@@ -47,4 +47,4 @@
     top: 50%;
     margin-left: -20px;
     margin-top: -20px;
-} */
+}
